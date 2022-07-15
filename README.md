@@ -1,14 +1,14 @@
 # Pre-Placement-Module-2023
 
-- Name: 
-- University Roll No.:
-- Branch:
-- Section:
-- Preferred Programming Language: C++/Java/Python
+- Name: SHIVAM SHARMA
+- University Roll No.: 1900290310152
+- Branch: ECE
+- Section:C
+- Preferred Programming Language: Java
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/carnage1502)
+- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/carnage1502)
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
