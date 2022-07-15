@@ -7,14 +7,14 @@
 - Preferred Programming Language: Java
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/carnage1502)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/carnage1502)
+- LeetCode: [carnage1502](https://leetcode.com/carnage1502)
+- HackerRank: [carnage1502](https://www.hackerrank.com/carnage1502)
 
 ## Placement Module
-1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
+1. [DS I](https://github.com/carnage1502/Pre-Placement-Module-2023/tree/main/DS%20I)
     | Weeks | Days | Days | Days | Days | Days | Days | Days |
     | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
-    | Week 2 | [Day 1](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%201) | [Day 2](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%202) | [Day 3](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%203) | [Day 4](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%204) | [Day 5](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%205) | [Day 6](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%206) | [Day 7](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%207) |
+    | Week 2 | [Day 1](https://github.com/carnage1502/Pre-Placement-Module-2023/tree/main/DS%20I/Day%201) | [Day 2](https://github.com/carnage1502/Pre-Placement-Module-2023/tree/main/DS%20I/Day%202) | [Day 3](https://github.com/carnage1502/Pre-Placement-Module-2023/tree/main/DS%20I/Day%203) | [Day 4](https://github.com/carnage1502/Pre-Placement-Module-2023/tree/main/DS%20I/Day%204) | [Day 5](https://github.com/carnage1502/Pre-Placement-Module-2023/tree/main/DS%20I/Day%205) | [Day 6](https://github.com/carnage1502/Pre-Placement-Module-2023/tree/main/DS%20I/Day%206) | [Day 7](https://github.com/carnage1502/Pre-Placement-Module-2023/tree/main/DS%20I/Day%207) |
     | Week 3 | [Day 8](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%208) | [Day 9](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%209) | [Day 10](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%2010) | [Day 11](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%2011) | [Day 12](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%2012) | [Day 13](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%2013) | [Day 14](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I/Day%2014) |
     
 2. [ALGO I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/ALGO%20I)
